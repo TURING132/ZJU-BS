@@ -1,0 +1,4 @@
+django~=3.2.22
+django-cors-headers==4.3.1
+paho-mqtt~=1.6.1
+mysqlclient==2.2.0
